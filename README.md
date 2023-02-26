@@ -5,7 +5,7 @@
     align="center">
 </h1>
 
-<p>Um pequeno projeto iniciado em 2020 com o objetivo de criar um programa que me ajudasse a organizar minhas atividades escolares durante a pandemia e, aprender sobre os conceitos de <strong>desenvolvimento desktop</strong> e <strong>persistência de dados</strong>.
+<p>Um pequeno projeto criado e atualizado ao longo de 2020 com o objetivo de criar um programa que me ajudasse a organizar minhas atividades escolares durante a pandemia e para aprender sobre os conceitos de <strong>desenvolvimento desktop</strong> e <strong>persistência de dados</strong>.
 </p>
 
 ## v1.0.0
